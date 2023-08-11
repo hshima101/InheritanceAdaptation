@@ -1,0 +1,3 @@
+/Users/hideoshima/Desktop/c++Excercises /UniversityDataBase/CMakeFiles/exe.dir
+/Users/hideoshima/Desktop/c++Excercises /UniversityDataBase/CMakeFiles/edit_cache.dir
+/Users/hideoshima/Desktop/c++Excercises /UniversityDataBase/CMakeFiles/rebuild_cache.dir
